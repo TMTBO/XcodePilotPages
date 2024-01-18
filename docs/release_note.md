@@ -1,5 +1,6 @@
 # 更新日志
 
-<div data-sparkle-version="1">
-    Version 1.0.0: first releasee
-</div>
+## v1.0.0
+
+    * Added: add Copilot Service
+    * Added: add request Accessibility permission button
