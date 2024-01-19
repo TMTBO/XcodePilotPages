@@ -1,2 +1,0 @@
-* fix open file but got folder url
-
