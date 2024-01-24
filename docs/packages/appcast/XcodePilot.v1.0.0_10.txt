@@ -1,3 +1,0 @@
-1. Added: add Copilot Service
-2. Added: add request Accessibility permission button
-
