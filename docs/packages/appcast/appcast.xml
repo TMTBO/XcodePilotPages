@@ -3,6 +3,24 @@
     <channel>
         <title>XcodePilot</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 01 Mar 2024 14:27:17 +0800</pubDate>
+            <link>https://xcodepilot.thriller.fun</link>
+            <sparkle:fullReleaseNotesLink>https://xcodepilot.thriller.fun/release_note/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://xcodepilot.thriller.fun/packages/appcast/XcodePilot.v1.1.0_12.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot.v1.1.0_12.zip" length="6588936" type="application/octet-stream" sparkle:edSignature="DWyQvyosf2vAD51J4ULSnPNX5DtHWSiu8hUN/HvxSQ/P/Oj7SQXln3VWL+zuIQlUq/dgLL8Vnbm+MV5MGj/4Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot12-11.delta" sparkle:deltaFrom="11" length="655358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Wb2ZXToMtRTzh3CbFOQ+uvLRDXvWK/QsiwwuGE59PMAxiyy2lN8MSyYDGg6ZoKUP69xZULW70yDiHk4LKB5nAQ=="/>
+                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot12-10.delta" sparkle:deltaFrom="10" length="654070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3Ca7haCY7m27NJLveiq/xOFtY45M3A/5TtVPZVjcxYov0twqulxR+9hiQ/FBXppZCekwnZzrsJL3ipUt7wDPDw=="/>
+                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot12-9.delta" sparkle:deltaFrom="9" length="660902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3UzErp3ocypkoSkZCHckJ5O818t/2FOtvC4nlgFdmf47Je73Drkt64KpyZudRqtRkP1ZxqFWAglJ1GotXxxjCA=="/>
+                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot12-8.delta" sparkle:deltaFrom="8" length="729330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="/iq3ZWElKLwsSeOvf25Fl5RzSN27E5r4MGDgrthRCDC0WwVmL4/DxgPgqIKAuhoTvE0iZ7pgwM61cmTE580ZAA=="/>
+                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot12-7.delta" sparkle:deltaFrom="7" length="729802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="V6zjN7jnHwTODRWZX7QAJK9zXngVu4ndruIlx+yhPDq+B5+Pob3yKK226HraB7ftjH61SdGI8IFSaStF8iXoAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 24 Jan 2024 14:53:12 +0800</pubDate>
             <link>https://xcodepilot.thriller.fun</link>
@@ -10,7 +28,6 @@
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://xcodepilot.thriller.fun/packages/appcast/XcodePilot.v1.0.0_11.txt</sparkle:releaseNotesLink>
             <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot.v1.0.0_11.zip" length="6533523" type="application/octet-stream" sparkle:edSignature="mFOZ/ZoGoW7Tz/T+3IJKXGcvzkJ6Hf9bllQAWZ9BOIR78nke/rjEnKZrqt+4DxfP1YINnjFlrxh6TDqPBtf3Cg=="/>
             <sparkle:deltas>
                 <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot11-10.delta" sparkle:deltaFrom="10" length="31338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="7RfLLqiaCU9sbUAyS2u0zF7Zo6O0/BsOuvXIpfoslCW7h5U8beNU9zcRIbHeWVQU34IOai3NWkWmzSVc3NKJAA=="/>
@@ -35,22 +52,6 @@
                 <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot10-7.delta" sparkle:deltaFrom="7" length="588018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="DPacvDh1/QzbEiA9ChjHMeASeZAtYGoOR6l3sbMWTlS5bz+n3/T2wrM9wZpt3oza1+3Sx/+LvONXX4eed1RdBw=="/>
                 <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot10-6.delta" sparkle:deltaFrom="6" length="583530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ps5ZXeS4/VrxhgMIs7lAUxL+xBcxyMcVi7UcZ5ooUV3Imp5noVnH4E/z6jmayzBT9JbeugOOV0dQ0YyZUbrlDA=="/>
                 <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot10-5.delta" sparkle:deltaFrom="5" length="990298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="DazLoQ1toSaiHvTWHokboCUO6o/Hy5yhSfxDMgKNnOihk8UkXpPXBE9a+f0Sn0IPoHSRzMRFfcjc4twf8ZnBBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 22 Jan 2024 18:25:47 +0800</pubDate>
-            <link>https://xcodepilot.thriller.fun</link>
-            <sparkle:fullReleaseNotesLink>https://xcodepilot.thriller.fun/release_note/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot.v1.0.0_9.zip" length="6531323" type="application/octet-stream" sparkle:edSignature="No2OcaZeXKY06Wj3maXjllBbov+bjNXjaadDACfBDUiYNuiCutNrL77OdJOPERWhyUJs6gkO2zBO3FaekSm0Dw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot9-8.delta" sparkle:deltaFrom="8" length="430122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="c2MWrUfRKF+rdzCe+S2OewlB65hF/Z2LfhBpRSsyxKMw/oPbd1lwyMqD0c5hO4QcOO/V8gsjEk9zg90hNW23Dw=="/>
-                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot9-7.delta" sparkle:deltaFrom="7" length="431926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6u6lfMZP2irbo4D0y9wl8EdZNAYN+bUWa9rQx+6hBG/kzrIKyFdnH+rkKfutG+h21QXUzOwF7niOYetPM/xFAg=="/>
-                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot9-6.delta" sparkle:deltaFrom="6" length="435090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="acMjiQFE/G/CBZq4wi3bQMwQEfkpQUJXlbHiNwDBI02Fp4XMtqXWdar5O52DvyElHXVqNfhCRuPE9eI3iiSCAw=="/>
-                <enclosure url="https://xcodepilot.thriller.fun/packages/appcast/XcodePilot9-5.delta" sparkle:deltaFrom="5" length="958450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Ea1d3hpoPDQt/+Y9EYvxJMToWi8WdLyOvlfhGX0NtUAJJ2TwwkTOHDrBk9YX6mfBZpb4zuVypliC7HYYPNBFAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
