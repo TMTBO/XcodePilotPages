@@ -62,7 +62,7 @@ extra:
   githash: ''
   analytics:
     provider: google
-    property: G-0XHJQQZZMG
+    property: G-RJ87LG0EY1
 
 extra_javascript:
   - '_static/js/math-csr.js?math-csr'
