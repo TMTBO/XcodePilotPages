@@ -1,15 +1,18 @@
 # How to get ADCDownloadAuth
 
-## Open Apple Developer Downloads Page
+## 1. Open Apple Developer Downloads Page
 [**Click Here**](https://developer.apple.com/download/all/)
 
-## Login with your Apple ID
+## 2. Login with your Apple ID
 
-## Open the menu with right click and select "Inspect"
+![login](./assets/get_auth/login.png)
+
+## 3. Open the menu with right click and select `Inspect`
 ![Inspect](./assets/get_auth/open_menu.png)
 
-## Open the Application tab and select "Cookies"
-
-## select `https://developer.apple.com` and copy the `ADCDownloadAuth` value
+## 4. Open the Application tab
+1. select `Cookies`
+2. select `https://developer.apple.com`
+3. select the `ADCDownloadAuth` and copy the value
 
 ![copy auth](./assets/get_auth/copy_auth.png)
