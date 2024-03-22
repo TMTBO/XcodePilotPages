@@ -1,22 +1,23 @@
-# 立即安装
+# Installation Instructions
 
-`XcodePilot` 目前提供以下三种种安装方式, 您可以选择其中任意一种.
+`XcodePilot` currently offers three installation methods. You can choose any of the following options.
 
-## 1. `Homebrew`下载安装
+## 1. Installation via Homebrew
 
-执行 `brew install --cask xcodepilot`
+Execute `brew install --cask xcodepilot` to install XcodePilot using Homebrew.
 
-## 2. 官网下载安装
+## 2. Installation from the Official Website
 
-### 文件下载
+### File Download
 
-点击**[ XcodePilot ](https://xcodepilot.thriller.fun/packages/XcodePilot.zip)**开始下载应用程序安装文件.
+Click **[here](https://xcodepilot.thriller.fun/packages/XcodePilot.zip)** to start downloading the application installation file.
 
-请注意，下载可能需要一些时间，具体取决于您的互联网连接速度.
+Please note that the download may take some time depending on your internet connection speed.
 
-### 安装说明
+### Installation Instructions
 
-1. 下载完成后，双击解压, 得到"XcodePilot.app".
-2. 将"XcodePilot.app" 拖动到"应用程序"文件夹中.
-3. 启动应用程序并开始使用.
+1. After the download is complete, double-click to extract the downloaded file, and you will get the "XcodePilot.app" file.
+2. Drag the "XcodePilot.app" file into the "Applications" folder.
+3. Launch the application and start using it.
 
+Thank you for your interest in XcodePilot! We hope you find these installation instructions helpful. If you have any further questions, please feel free to ask.
