@@ -32,7 +32,7 @@ XcodePilot allows developers to customize keyboard shortcuts to fit their indivi
 
 Our team is continuously improving and expanding the features of XcodePilot to meet the evolving needs of developers. We highly appreciate your valuable feedback and suggestions to help us enhance the product. You can reach us through the following channels:
 
-- **Official Website**: [XcodePilot](xcodepilot.thriller.fun)
+- **Official Website**: [XcodePilot](https://xcodepilot.thriller.fun)
 - **Email**: thrillerone@hotmail.com
 - **Social Media**:
   - Twitter: [@XcodePilot](https://twitter.com/XcodePilot)
