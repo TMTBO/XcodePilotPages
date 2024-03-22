@@ -42,11 +42,11 @@ XcodePilot provides a one-click feature to clean Xcode caches, helping developer
 
 XcodePilot allows developers to customize keyboard shortcuts to fit their individual development habits and workflows. Developers can set shortcuts for commonly used actions, thereby improving development efficiency.
 
-<img src="./assets/home/error_code_query.png" alert="" width="300" />
-
 ### Error Code Lookup
 
 XcodePilot also provides an error code lookup feature, allowing developers to easily search for and understand common error codes encountered during development. By providing detailed explanations and possible solutions, XcodePilot helps developers troubleshoot and resolve issues more efficiently.
+
+<img src="./assets/home/error_code_query.png" alert="" width="300" />
 
 ### More Features Coming Soon!
 
