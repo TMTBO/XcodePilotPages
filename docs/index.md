@@ -1,6 +1,6 @@
 # Welcome to the Official XcodePilot Website
 
-![XcodePilot Logo](https://example.com/xcodepilot-logo.png)
+![XcodePilot](./assets/home/funcs.png)
 
 ## About XcodePilot
 
@@ -12,9 +12,21 @@ XcodePilot is a powerful development tool designed to provide integrated feature
 
 XcodePilot comes with the AI-powered coding assistant, Copilot. It utilizes machine learning technology to analyze code repositories and context, providing intelligent code completion, automatic fixes, and code suggestions. Copilot significantly reduces repetitive tasks during coding and improves development efficiency.
 
+<div class="third">
+    <img src="./assets/home/copilot_completion.png" alert="" width="300" />
+    <img src="./assets/home/copilot_completion_dark.png" alert="" width="300" />
+    <img src="./assets/home/copilot_completion_setting.png" alert="" width="300" />
+</div>
+
 ### Xcode and Runtime Management
 
 XcodePilot offers convenient management of Xcode and Runtime versions. Developers can easily switch between and manage different versions of Xcode and Runtime to meet the requirements of various projects. Additionally, XcodePilot supports automatic detection and installation of the latest Xcode and Runtime versions, ensuring developers always use up-to-date tools.
+
+<div class="third">
+    <img src="./assets/home/xcode_download.png" alert="" width="300" />
+    <img src="./assets/home/runtime_install_local.png" alert="" width="300" />
+    <img src="./assets/home/runtime_install_remote.png" alert="" width="300" />
+</div>
 
 ### Simulator Management
 
@@ -24,9 +36,17 @@ XcodePilot includes simulator management functionality, allowing for quick launc
 
 XcodePilot provides a one-click feature to clean Xcode caches, helping developers free up disk space and enhance Xcode's performance. By removing expired cache files and temporary files, XcodePilot helps developers maintain a healthy state of Xcode.
 
+<img src="./assets/home/clean.png" alert="" width="300" />
+
 ### Keyboard Shortcuts Customization
 
 XcodePilot allows developers to customize keyboard shortcuts to fit their individual development habits and workflows. Developers can set shortcuts for commonly used actions, thereby improving development efficiency.
+
+<img src="./assets/home/error_code_query.png" alert="" width="300" />
+
+### Error Code Lookup
+
+XcodePilot also provides an error code lookup feature, allowing developers to easily search for and understand common error codes encountered during development. By providing detailed explanations and possible solutions, XcodePilot helps developers troubleshoot and resolve issues more efficiently.
 
 ### More Features Coming Soon!
 
