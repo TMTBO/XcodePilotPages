@@ -1,5 +1,24 @@
 # Release Notes
 
+## **v1.3.0**
+
+    - Updated: update Copilot project root path detection
+        - It will detect the root project with blowing files
+            - *.xcodeproj
+            - *.xcworkspace
+            - *.playground
+            - .git
+            - .Package.swift
+            - buildServer.json
+            - .clangd
+            - .clang-tidy
+            - .clang-format
+            - compile_commands.json
+            - compile_flags.txt
+            - conanfile.ac
+    - Updated: remove duplicate completion item
+    - Fixed: fix show empty completion list
+
 ## **v1.2.0**
 
     - Added: add Xcode & Runtimes image installer
