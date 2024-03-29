@@ -13,7 +13,7 @@ theme:
   # custom_dir: 'mkdocs-material/material'
   static_templates:
     - 404.html
-  language: "zh"
+  language: 'zh'
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -34,14 +34,14 @@ theme:
         name: Switch to light mode
   include_search_page: true
   search_index_only: true
-  favicon: "favicon.ico"
-  logo: "favicon_512x512.png"
+  favicon: 'favicon.ico'
+  logo: 'favicon_512x512.png'
   features:
     - navigation.tabs
     - navigation.instant
   font:
-    text: "Fira Sans"
-    code: "Fira Mono"
+    text: 'Fira Sans'
+    code: 'Fira Mono'
 
 plugins:
   search:
@@ -49,27 +49,27 @@ plugins:
       - en
       - zh
 
+
 # hooks:
 #   - hooks/on_env.py
 
 # Customization
 extra:
-  disqus: "XcodePilot"
+  disqus: 'XcodePilot'
   # copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license">SATA</a>'
-  pagetime: "on"
-  manifest: "manifest.webmanifest"
-  githash: ""
+  pagetime: 'on'
+  manifest: 'manifest.webmanifest'
+  githash: ''
   analytics:
     provider: google
-    # property: G-RJ87LG0EY1
-    property: G-1MTP6RZ88K
+    property: G-RJ87LG0EY1
 
 extra_javascript:
-  - "_static/js/math-csr.js?math-csr"
-  - "_static/js/ad.js"
+  - '_static/js/math-csr.js?math-csr'
+  - '_static/js/ad.js'
 
 extra_css:
-  - "_static/css/extra.css?v=14"
+  - '_static/css/extra.css?v=14'
 
 # Extensions
 markdown_extensions:
@@ -107,3 +107,4 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.tabbed:
       alternate_style: true
+
