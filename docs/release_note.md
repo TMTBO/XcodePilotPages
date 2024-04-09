@@ -18,6 +18,7 @@
             - conanfile.ac
     - Updated: remove duplicate completion item
     - Fixed: fix show empty completion list
+    - Fixed: fix repeat the error code query
 
 ## **v1.2.0**
 
