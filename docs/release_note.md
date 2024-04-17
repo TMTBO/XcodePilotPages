@@ -1,5 +1,11 @@
 # Release Notes
 
+## **v1.4.0**
+
+    - Added: add KeyboardShortcut in completion panel
+    - Added: add KeyboardShortcut for show/hide compleiton panel
+    - Updated: update completion panel postion logic
+
 ## **v1.3.0**
 
     - Updated: update Copilot project root path detection

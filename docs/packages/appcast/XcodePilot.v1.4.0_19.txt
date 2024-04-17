@@ -1,0 +1,3 @@
+- Added: add KeyboardShortcut in completion panel
+- Added: add KeyboardShortcut for show/hide compleiton panel
+- Updated: update completion panel postion logic
