@@ -2,9 +2,11 @@
 
 ## **v1.4.0**
 
+    - Added: add Copilot Chat
     - Added: add KeyboardShortcut in completion panel
     - Added: add KeyboardShortcut for show/hide compleiton panel
     - Updated: update completion panel postion logic
+    - Fixed: fix run without node environment
 
 ## **v1.3.0**
 
