@@ -16,6 +16,7 @@ XcodePilot comes with the AI-powered coding assistant, Copilot. It utilizes mach
     <img src="./assets/home/copilot_completion.png" alert="" width="300" />
     <img src="./assets/home/copilot_completion_dark.png" alert="" width="300" />
     <img src="./assets/home/copilot_completion_setting.png" alert="" width="300" />
+    <img src="./assets/home/copilot_chat.png" alert="" width="300" />
 </div>
 
 ### Xcode and Runtime Management
