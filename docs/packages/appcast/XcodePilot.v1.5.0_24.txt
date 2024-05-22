@@ -1,0 +1,6 @@
+- Added: Add Home Page
+- Added: Add String Convertions
+- Added: Add Regex Tester
+- Added: Shortcuts Preference View
+- Added: Add remove trailing newline for suggestions
+- Fixed: Fix theme set failure

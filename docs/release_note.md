@@ -1,5 +1,14 @@
 # Release Notes
 
+## **v1.5.0**
+
+    - Added: Add Home Page
+    - Added: Add String Convertions
+    - Added: Add Regex Tester
+    - Added: Shortcuts Preference View
+    - Added: Add remove trailing newline for suggestions
+    - Fixed: Fix theme set failure
+
 ## **v1.4.0**
 
     - Added: add Copilot Chat
