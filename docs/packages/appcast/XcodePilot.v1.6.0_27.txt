@@ -1,0 +1,1 @@
+- Added: Add Color indector for RGB/RGBA hex color string, such as #FFFFFF, 0xFFFFFF
